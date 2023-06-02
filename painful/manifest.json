@@ -1,0 +1,106 @@
+{
+    "manifest_version": 1,
+    "name": "Painful",
+    "description": "gsghhifdj",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "author": "among us man",
+    "developer":
+    {
+        "name": "Sussy Gus Inc."
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+        
+            "keyboard_sounds":
+            {
+                "TYPING_LETTER":
+                [
+                    "sounds/vine (1).wav",
+                    "sounds/vine (1).wav",
+                    "sounds/vine (1).wav",
+                    "sounds/vine (1).wav",
+                    "sounds/vine (1).wav",
+                    "sounds/vine (1).wav"
+
+                ],
+                "TYPING_ENTER":
+                [
+                    "sounds/among us (2).wav"
+                ],
+                "TYPING_SPACE":
+                [
+                    "sounds/fart.wav"
+                ],
+                "TYPING_BACKSPACE":
+                [
+                    "sounds/Death.wav"
+                ]
+            },
+
+            "browser_sounds":
+            {
+                "SWITCH_TOGGLE":
+                [
+                    "sounds/vine (1).wav"
+                ],
+                "TAB_CLOSE":
+                [
+                    "sounds/Death.wav"
+                ],
+                "TAB_INSERT":
+                [
+                    "sounds/fart.wav"
+                ],
+                "HOVER":
+                [
+                    "sounds/fart.wav"
+                ],
+                "HOVER_UP":
+                [
+                    "sounds/fart.wav"
+                ],
+                "CLICK":
+                [
+                    "sounds/vine (1).wav"
+                ],
+                "LIMITER_ON":
+                [
+                    "sounds/among us (2).wav"
+                ],
+                "LIMITER_OFF":
+                [
+                    "sounds/Death.wav"
+                ],
+                "IMPORTANT_CLICK":
+                [
+                    "sounds/vine (1).wav"
+                ],
+                "FEATURE_SWITCH_ON":
+                [
+                    "sounds/among us (2).wav"
+                ],
+                "FEATURE_SWITCH_OFF":
+                [
+                    "sounds/Death.wav"
+                ],
+                "LEVEL_UPGRADE":
+                [
+                    "sounds/among us (2).wav"
+                ],
+                "TAB_SLASH":
+                [
+                    "sounds/Death.wav"
+                ]
+                
+            }
+       }
+    }
+    
+}
